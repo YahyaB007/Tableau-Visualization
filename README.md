@@ -1,4 +1,4 @@
-**1. Project Title**
+##1. Project Title
 
 🌍 Global Sales & Logistics Performance Dashboard
 An interactive Tableau dashboard built on the Global Superstore dataset to analyze worldwide sales, shipment volumes, delivery times, and supply chain efficiency across multiple regions and product categories.
