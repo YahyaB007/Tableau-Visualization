@@ -125,5 +125,5 @@ Tree Map (Bottom Right) – Sales and quantity breakdown by sub-category.
 
 
   
-  ## 6. Screenshots
+  ## 6. Screenshot
 ![Dashboard Preview](https://github.com/YahyaB007/Tableau-Visualization/blob/main/Global%20Sales.png)
