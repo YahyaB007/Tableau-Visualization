@@ -48,5 +48,3 @@ To deliver a single analytical tool that:
 •	📊 Strategic Decision Support – Equip managers with actionable global insights on sales and logistics performance.
  
 6. Screenshots
-
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/f358ee05-a72e-42ff-8d63-adb9cd46086b" />
